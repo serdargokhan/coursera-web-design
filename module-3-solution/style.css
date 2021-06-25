@@ -1,0 +1,15 @@
+
+.btn-group-sm>.btn, .btn-sm {
+    font-size: .55rem;
+}
+
+.bg-white {
+    background-color: white !important;
+}
+
+@media screen and (min-width: 576px) {
+    .invisible-sm {
+        visibility: hidden ;
+    }
+}
+
